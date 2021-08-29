@@ -1,7 +1,7 @@
 # EvolveGCN-full
 The modified version of EvolveGCN.   
 
-Modified the code of -o version.    
+Modified the code of -o version. The original code has been renamed with "-oo" suffix.    
 Corrected some errors in experiment setting files.
 Added some necessary data files.    
 
